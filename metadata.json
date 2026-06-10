@@ -1,0 +1,6 @@
+{
+  "name": "Gemini LLM Studio",
+  "description": "A high-fidelity developer playground and studio for sandbox testing, prompt engineering, structured JSON extraction, and vision recognition with Gemini 3.5.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
